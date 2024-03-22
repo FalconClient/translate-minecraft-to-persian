@@ -1,4 +1,3 @@
-language.name=Persian
 gui.done=Done
 gui.cancel=Cancel
 gui.back=Back
