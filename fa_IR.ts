@@ -1,7 +1,4 @@
 language.name=Persian
-language.region=IR
-language.code=fa_IR
-
 gui.done=Done
 gui.cancel=Cancel
 gui.back=Back
