@@ -1,4 +1,4 @@
-gui.done=Done
+<gui.done>=Done
 gui.cancel=Cancel
 gui.back=Back
 gui.toTitle=Back to title screen
@@ -9,7 +9,6 @@ gui.yes=Yes
 gui.no=No
 gui.none=None
 gui.all=All
-
 translation.test.none=Hello, world!
 translation.test.complex=Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
 translation.test.escape=%%s %%%s %%%%s %%%%%s
@@ -17,7 +16,6 @@ translation.test.invalid=hi %
 translation.test.invalid2=hi %  s
 translation.test.args=%s %s
 translation.test.world=world
-
 menu.game=Game menu
 menu.singleplayer=Singleplayer
 menu.multiplayer=Multiplayer
