@@ -1,2 +1,11 @@
-# translate-minecraft-to-persian
-A project to translate Minecraft into persian
+# ترجمه ماینکرفت به زبان فارسی
+
+این پروژه برای ترجمه ماینکرفت نسخخه ۱.۸.۹ به زبان فارسی می‌باشد.
+
+اگر داوطلب این کار هستید به پلتفرم ترجمه ما مراجعه کنید:
+
+https://translate.codeberg.org/projects/translate-minecraft-to-persian/
+
+**قوانین**
+
+۱.به هیچ عنوان از کلمات مصوبه فرهنگستان فارسی استفاده نکنید.
