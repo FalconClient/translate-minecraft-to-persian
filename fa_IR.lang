@@ -221,6 +221,7 @@ multiplayer.connect=اتصال
 
 altmanager.title=انتخاب حساب
 altmanager.add=اضافه کردن جایگزین
+altmanager.remove=حذف جایگزین
 
 multiplayer.info1=Minecraft Multiplayer is currently not finished, but there
 multiplayer.info2=is some buggy early testing going on.
@@ -306,12 +307,12 @@ record.nowPlaying=Now playing: %s
 
 options.off=خاموش
 options.on=روشن
-options.visible=Shown
-options.hidden=Hidden
+options.visible=نمایان
+options.hidden=مخفی
 options.title=گزینه ها
 options.controls=Controls...
-options.video=Video Settings...
-options.language=Language...
+options.video=تنظیمات ویدیو...
+options.language=زبان...
 options.stream=Broadcast Settings...
 options.sounds=موزیک و صدا...
 options.sounds.title=گزینه های صدا و موزیک
